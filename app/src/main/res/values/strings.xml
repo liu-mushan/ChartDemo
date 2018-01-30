@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChartDemo</string>
+    <string name="title_activity_shader_test">ShaderTestActivity</string>
+</resources>
